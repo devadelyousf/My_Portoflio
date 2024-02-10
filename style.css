@@ -66,3 +66,7 @@ footer .social-icons i{
   display: flex;
   justify-content: center;
 }
+
+#project .card{
+  min-height: 180px ;
+}
